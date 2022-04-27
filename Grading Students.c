@@ -5,7 +5,7 @@ int main(){
 int n;
 scanf("%d",&n);
 // Logic Implement
-for(int a0 = 0; a0 < n; a0++){
+for(int a = 0; a < n; a++){
 int grade;
 scanf("%d",&grade);
 int x = (grade+4)/5;
